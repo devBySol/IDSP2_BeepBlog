@@ -24,7 +24,7 @@ We are passionate about delivering the best products and services!
 
 #### Aless Wei - Full-stack Developer
 
-Aless is a full-stack developer who loves tackling new challenges and delivering quality applications.
+Hi, I’m Aless, and I’m one of the full stack developers for Beep. I’m passionate about building applications that make a real difference. I love tackling challenges, exploring new technologies, and finding efficient solutions to create impactful and seamless user experiences.
 
 ---
 
@@ -32,7 +32,7 @@ Aless is a full-stack developer who loves tackling new challenges and delivering
 
 #### Christy Wan - Full-stack Developer
 
-Christy is a dedicated full-stack web development student at BCIT with a strong passion for combining her design expertise with web development skills to create innovative applications.
+Hey all, my name is Christy. I am a full-stack web development student at BCIT with a strong passion for combining my design expertise with web development skills to create innovative applications. I am always eager to learn and grow, driven by a strong desire to build digital solutions that improves user experiences.
 
 ---
 
