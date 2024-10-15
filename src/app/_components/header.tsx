@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 flex items-center">
       <Link href="/" className="hover:underline">
-        <Image src="/favicon/logo.jpg" alt="logo" width={100} height={100}></Image>
+        <Image src="/favicon/logo.png" alt="logo" width={100} height={100}></Image>
       </Link>
     </h2>
   );
