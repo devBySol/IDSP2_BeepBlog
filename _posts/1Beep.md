@@ -24,7 +24,7 @@ In situations of immediate danger, users can activate a loud alarm directly from
 
 The app integrates crime data to highlight potentially risky areas, providing users with safer route suggestions. By visualizing past crime reports, Beep helps individuals make informed decisions about their travel paths.
 
-#### Check-in Notifications:
+### Check-in Notifications:
 
 The app allows scheduled check-ins. If a user doesn’t check in at the expected time, it sends an automatic alert to their designated contacts.
 

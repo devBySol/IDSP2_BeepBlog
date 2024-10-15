@@ -1,18 +1,18 @@
 ---
 title: "About Us"
 excerpt: "Meet the team"
-coverImage: "/assets/blog/Beep/TeamBonding.jpg"
+coverImage: "/assets/blog/AboutUs/TeamBonding.jpg"
 date: "2024-10-14T12:34:56.322Z"
 author:
   name: Christy
-  picture: "/assets/blog/authors/sol.jpg"
+  picture: "/assets/blog/authors/christy-test.jpg"
 ogImage:
-  url: "/assets/blog/Beep/TeamBonding.jpg"
+  url: "/assets/blog/AboutUs/TeamBonding.jpg"
 ---
 
 Meet our amazing team who are passionate about delivering the best products and services!
 
-### Aless Wei - Project Manager
+### Aless Wei - Full-stack Developer
 
 ![Aless](/assets/blog/authors/aless-profile.png)
 Aless
