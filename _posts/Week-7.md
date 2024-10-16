@@ -1,6 +1,6 @@
 ---
 title: "Weekly Update 10/15/2024"
-excerpt: "Beep is a safety app for women, offering real-time location sharing, emergency alerts, and crime data mapping to ensure secure travel, especially at night."
+excerpt: "Week 7 Update: This week, we finalized the SOS frame design, improved map functionality, and refined key features like check-in notifications and location sharing. We also advanced our style guide and continued research on UI components. Read more for the full project progress!"
 coverImage: "/assets/blog/picture/week-7.jpg"
 date: "2024-10-15T12:34:56.322Z"
 author:
