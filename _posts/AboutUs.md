@@ -2,7 +2,7 @@
 title: "About Us"
 excerpt: "Meet the team"
 coverImage: "/assets/blog/picture/AboutUs.jpg"
-date: "2024-10-14T12:34:56.322Z"
+date: "2024-10-01T12:34:56.322Z"
 author:
   name: Christy
   picture: "/assets/blog/authors/christy-test.jpg"
