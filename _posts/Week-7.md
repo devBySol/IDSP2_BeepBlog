@@ -1,5 +1,5 @@
 ---
-title: "Weekly Update"
+title: "Weekly Update 10/15/2024"
 excerpt: "Beep is a safety app for women, offering real-time location sharing, emergency alerts, and crime data mapping to ensure secure travel, especially at night."
 coverImage: "/assets/blog/picture/week-7.jpg"
 date: "2024-10-15T12:34:56.322Z"
@@ -7,25 +7,40 @@ author:
   name: Aless
   picture: "/assets/blog/authors/aless-profile.png"
 ogImage:
-  url: "/assets/blog/picture/week-7.jpg"
+  url: "/assets/blog/picture/Monochrome_Wordmark_Logo.svg"
 ---
 
-Beep is a mobile app dedicated to enhancing safety for women, particularly when traveling alone at night. The app provides multiple key features to promote personal security:
+# Weekly Blog Post: Project Progress and Key Discussions
 
-### Updats on Framework:
+This week, our team made great strides in shaping the user experience and design elements for our upcoming app, as well as progressing with backend tasks. Here’s a summary of what was discussed during our latest meeting:
 
-Users can share their live location with trusted contacts like family or friends. This feature ensures that someone always knows where the user is, offering peace of mind and swift help if needed.
+## Wireframe and SOS Frame Design
 
-### Blog setup:
+Our wireframe, showcased by D3, has been a key focus. We’ve honed in on the **SOS frame design**, where the user can quickly share their location with an emergency contact. The SMS message that will be sent to the emergency contact was also finalized, ensuring clear communication in emergency situations.
 
-In situations of immediate danger, users can activate a loud alarm directly from the app to attract attention and deter potential threats. It also has a quick contact feature to notify emergency services or a designated contact.
+## Map and Route Suggestions
 
-### UI framwork for dev:
+A major feature in the works is the **map** that displays the user’s current location and suggests the most optimized route to safety. While we are still working on the **Safe Zone page**, which will notify users when they enter designated safe areas, these features are coming together nicely.
 
-The app integrates crime data to highlight potentially risky areas, providing users with safer route suggestions. By visualizing past crime reports, Beep helps individuals make informed decisions about their travel paths.
+## Recording Surroundings and Sharing Location
 
-#### Next:
+Another important functionality involves the app’s ability to **record the user’s surroundings** and share their live location with a trusted contact. This adds an extra layer of security for users in uncertain situations.
 
-The app allows scheduled check-ins. If a user doesn’t check in at the expected time, it sends an automatic alert to their designated contacts.
+## Style Guide and Logo
 
-These features make Beep an essential tool for anyone concerned about safety while traveling, offering a comprehensive solution to both prevent incidents and respond to emergencies.
+D3 also showcased the **Style Guide and Logo** this week. The design was inspired by the clear, intuitive route points seen in Google Maps, making navigation within the app seamless. To align our brand with the app’s feel, we agreed to **change the background color** to our brand colors, adding more cohesiveness to the design.
+
+## UI Components and Research
+
+On the **UI component** front, research into **UI Kitten** and the React Native documentation is ongoing to ensure we have all the necessary tools to create a responsive and visually appealing interface.
+
+## Blog Update
+
+A blog update is underway, with the **Check-in Notifications** section being refined to better highlight its core functionality. We're also integrating the **core values** established in Figma, adding image assets to support the narrative.
+
+## Next Sprint
+
+- **D3** will upload the finalized image assets to the shared Google Drive.
+- **FSWD** will focus on setting up and connecting the database to ensure backend functionality is in place for future testing.
+
+Stay tuned for more updates as we continue to move closer to our launch goals!
