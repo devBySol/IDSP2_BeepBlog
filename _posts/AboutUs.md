@@ -56,7 +56,7 @@ Sol is amazing!!!!!!
 
 ---
 
-![User](/assets/blog/authors/profile-user.png)
+![Callista](/assets/blog/authors/cally-profile.png)
 
 #### Callista - Designer
 
@@ -64,23 +64,23 @@ Callista is a creative designer who brings fresh ideas and a strong aesthetic se
 
 ---
 
-![User](/assets/blog/authors/profile-user.png)
+![Jumi](/assets/blog/authors/jumi-profile.png)
 
-#### Jumi - Designer
+#### Jumi Pham - Graphic Designer
 
-Jumi is passionate about user-centered design and always strives to deliver intuitive and accessible designs.
-
----
-
-![User](/assets/blog/authors/profile-user.png)
-
-#### Monica - Designer
-
-Monica specializes in graphic design and is always exploring new trends to ensure the team’s designs are both modern and functional.
+Hi, I’m Jumi! I’m from Vietnam and got into graphic design back in high school. I tried some freelance stuff while I was there. Now that I’m at BCIT, I’m learning that creativity and functionality go hand in hand. I aim to sharpen my skills and expand my vision in the graphic design world.
 
 ---
 
-![User](/assets/blog/authors/profile-user.png)
+![Monica](/assets/blog/authors/mon-profile.png)
+
+#### Monica Nguyen - Graphic Designer
+
+Hi, I’m Monica, one of the digital designers for Beep. I’m passionate about creating designs that strike the right balance between aesthetics and functionality. I’m always eager to learn and expand my skillset, constantly exploring new styles, shapes, and artistic approaches to bring fresh ideas to life.
+
+---
+
+![Shirin](/assets/blog/authors/shirin-profile.png)
 
 #### Shirin - Designer
 
