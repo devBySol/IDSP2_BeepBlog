@@ -24,12 +24,7 @@ export default async function Post({ params }: Params) {
       <Container>
         <Header />
         <article className="mb-32">
-          <PostHeader
-            title={post.title}
-            coverImage={post.coverImage}
-            date={post.date}
-            author={post.author}
-          />
+          <PostHeader title={post.title} coverImage={post.coverImage} date={post.date} author={post.author} />
           <PostBody content={content} />
         </article>
       </Container>
@@ -50,7 +45,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
+  const title = `${post.title} | Stay Safe, Stay Connected with ${CMS_NAME}`;
 
   return {
     title,
