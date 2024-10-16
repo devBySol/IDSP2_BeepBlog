@@ -1,13 +1,13 @@
 ---
 title: "What is the Beep?"
 excerpt: "Beep is a safety app for women, offering real-time location sharing, emergency alerts, and crime data mapping to ensure secure travel, especially at night."
-coverImage: "/assets/blog/picture/Beep.jpg"
+coverImage: "/assets/blog/picture/Beep.png"
 date: "2024-10-01T12:34:56.322Z"
 author:
   name: Sol
   picture: "/assets/blog/authors/sol.jpg"
 ogImage:
-  url: "/assets/blog/picture/Beep.jpg"
+  url: "/assets/blog/picture/Beep.png"
 ---
 
 Beep is a mobile app dedicated to enhancing safety for women, particularly when traveling alone at night. The app provides multiple key features to promote personal security:
