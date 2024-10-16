@@ -12,7 +12,7 @@ ogImage:
 
 Beep is a mobile app dedicated to enhancing safety for women, particularly when traveling alone at night. The app provides multiple key features to promote personal security:
 
-### Updats on Framwork:
+### Updats on Framework:
 
 Users can share their live location with trusted contacts like family or friends. This feature ensures that someone always knows where the user is, offering peace of mind and swift help if needed.
 
