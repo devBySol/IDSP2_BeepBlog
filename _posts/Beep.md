@@ -1,5 +1,5 @@
 ---
-title: "What is the Beep?"
+title: "What is Beep?"
 excerpt: "Beep is a safety app for women, offering real-time location sharing, emergency alerts, and crime data mapping to ensure secure travel, especially at night."
 coverImage: "/assets/blog/picture/Beep.png"
 date: "2024-10-01T12:34:56.322Z"
