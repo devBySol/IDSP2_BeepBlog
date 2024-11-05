@@ -1,13 +1,13 @@
 ---
 title: "About Us"
 excerpt: "Meet the team"
-coverImage: "/assets/blog/picture/AboutUs.png"
+coverImage: "/assets/blog/thumbnails/AboutUs.png"
 date: "2024-10-01T12:34:56.322Z"
 author:
   name: Christy
   picture: "/assets/blog/authors/christy-test.jpg"
 ogImage:
-  url: "/assets/blog/picture/AboutUs.png"
+  url: "/assets/blog/thumbnails/AboutUs.png"
 ---
 
 # **Meet Our Team**

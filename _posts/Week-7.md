@@ -1,13 +1,13 @@
 ---
 title: "Weekly Update"
 excerpt: "Week 7 Update: This week, we finalized the SOS frame design, improved map functionality, and refined key features like check-in notifications and location sharing. We also advanced our style guide and continued research on UI components. Read more for the full project progress!"
-coverImage: "/assets/blog/picture/week7.png"
+coverImage: "/assets/blog/thumbnails/week7.png"
 date: "2024-10-15T12:34:56.322Z"
 author:
   name: Aless
   picture: "/assets/blog/authors/aless-profile.png"
 ogImage:
-  url: "/assets/blog/picture/week7LogoBlack.svg"
+  url: "/assets/blog/thumbnails/week7.png"
 ---
 
 # Weekly Blog Post: Project Progress and Key Discussions

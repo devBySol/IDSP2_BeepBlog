@@ -1,13 +1,13 @@
 ---
 title: "Weekly Update"
 excerpt: "Week 6 Update: We advanced ideation, user research, and key safety features in our app, focusing on real-time safety data, live location sharing, and distress alerts. We also refined our user persona and continued UI research to enhance the user experience."
-coverImage: "/assets/blog/picture/week6.png"
+coverImage: "/assets/blog/thumbnails/week6.png"
 date: "2024-10-08T12:34:56.322Z"
 author:
   name: Sol
   picture: "/assets/blog/authors/sol.jpg"
 ogImage:
-  url: "/assets/blog/picture/week6.png"
+  url: "/assets/blog/thumbnails/week6.png"
 ---
 
 This week, we made significant progress with our app’s ideation and design, as well as advancing backend components. Here’s a summary of our latest updates:
