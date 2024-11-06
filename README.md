@@ -2,8 +2,6 @@
 
 Beep is a safety app that provides real-time safety insights and proactive emergency features to offer peace of mind, especially for women, people of color, and underrepresented communities navigating alone.
 
-This README outlines the steps to set up and deploy Beep, using Next.js with TypeScript and Markdown for content management, incorporating Beep’s unique features.
-
 ## Features of Beep
 
 1. **Real-Time Location Sharing**: Allows users to share their live location with trusted contacts.
