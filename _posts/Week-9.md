@@ -1,13 +1,13 @@
 ---
 title: "Weekly Update"
-excerpt: "Week 8 Update: This week, worked on map integration,new landing page, and alert feature."
-coverImage: "/assets/blog/thumbnails/week8.png"
+excerpt: "Week 9 Update: This week, worked on map integration,new landing page, and alert feature."
+coverImage: "/assets/blog/thumbnails/week9.png"
 date: "2024-10-29T12:00:56.322Z"
 author:
   name: Christy
   picture: "/assets/blog/authors/christy-profile.png"
 ogImage:
-  url: "/assets/blog/thumbnails/week8.png"
+  url: "/assets/blog/thumbnails/week9.png"
 ---
 
 # Weekly Blog Post: Project Progress and Key Discussions

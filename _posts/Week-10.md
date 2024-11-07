@@ -1,6 +1,6 @@
 ---
 title: "Weekly Update"
-excerpt: "Week 10 Update: This week, our team focused on completing the onboarding UI, GPS tracking, and SOS sound features, showcased Beep in a live demo at our midterm presentation, and made progress on safe zone data, crime heat mapping, and our app’s promotional ad reel. "
+excerpt: "Week 10 Update: This week, our team focused on completing the onboarding UI, GPS tracking, and SOS sound features, showcased Beep in a live demo at our midterm presentation, and made progress on safe zone data, crime heat mapping, and our app’s promotional ad reel."
 coverImage: "/assets/blog/thumbnails/week10.png"
 date: "2024-11-06T12:00:56.322Z"
 author:
