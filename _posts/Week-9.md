@@ -5,7 +5,7 @@ coverImage: "/assets/blog/picture/week9.png"
 date: "2024-10-29T12:00:56.322Z"
 author:
   name: Christy
-  picture: "/assets/blog/picture/christy-profile.png"
+  picture: "/assets/blog/authors/christy-profile.png"
 ogImage:
   url: "/assets/blog/thumbnails/week9.png"
 ---
