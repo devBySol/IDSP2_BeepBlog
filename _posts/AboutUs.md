@@ -5,7 +5,7 @@ coverImage: "/assets/blog/picture/AboutUs.png"
 date: "2024-10-01T12:34:56.322Z"
 author:
   name: Christy
-  picture: "/assets/blog/authors/christy-test.jpg"
+  picture: "/assets/blog/authors/christy-profile.png"
 ogImage:
   url: "/assets/blog/picture/AboutUs.png"
 ---

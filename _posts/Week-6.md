@@ -5,7 +5,7 @@ coverImage: "/assets/blog/picture/week6.png"
 date: "2024-10-08T12:34:56.322Z"
 author:
   name: Sol
-  picture: "/assets/blog/authors/sol.jpg"
+  picture: "/assets/blog/authors/sol-profile.png"
 ogImage:
   url: "/assets/blog/picture/week6.png"
 ---
