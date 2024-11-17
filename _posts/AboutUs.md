@@ -48,7 +48,7 @@ Hi, I am Denis, and I am one of the full-stack developers for Beep. I am passion
 
 #### Sol Kim - Full-stack Developer
 
-Sol is amazing!!!!!!
+Hi, I'm Sol, one of the full-stack developers for Beep. I'm passionate about solving real-world problems through technology and delivering impactful user experiences. My approach to work is driven by attention to detail and a strong eagerness to explore new ideas and technologies. I strive to bring creativity and efficiency to projects, ensuring that the solutions I build not only meet but exceed expectations. Always curious and adaptable, I love learning and growing with Beep.
 
 ---
 
