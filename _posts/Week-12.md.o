@@ -2,7 +2,7 @@
 title: "Weekly Update"
 excerpt: "Week 12 Update: This week, our team achieved significant advancements in Beep’s core functionality and user experience design."
 coverImage: "/assets/blog/picture/week12.png"
-date: "2024-11-12T12:00:56.322Z"
+date: "2024-11-18T12:00:56.322Z"
 author:
   name: Jumi
   picture: "/assets/blog/authors/jumi-profile.png"
