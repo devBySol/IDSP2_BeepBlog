@@ -24,7 +24,7 @@ We are passionate about delivering the best products and services!
 
 #### Aless Wei - Full-stack Developer
 
-Hi, I’m Aless, and I’m one of the full stack developers for Beep. I’m passionate about building applications that make a real difference. I love tackling challenges, exploring new technologies, and finding efficient solutions to create impactful and seamless user experiences.
+Hi, I'm Aless, and I'm one of the full stack developers for Beep. I'm passionate about building applications that make a real difference. I love tackling challenges, exploring new technologies, and finding efficient solutions to create impactful and seamless user experiences.
 
 ---
 
@@ -40,7 +40,7 @@ Hey all, my name is Christy. I am a full-stack web development student at BCIT w
 
 #### Denis Liu - Full-stack Developer
 
-Hi, I am Denis, and I am one of the full-stack developers for Beep. I am passionate about creating apps that solve real problems. I’m all about diving into challenges, experimenting with new tech, and finding the best solutions to make things work.
+Hi, I am Denis, and I am one of the full-stack developers for Beep. I am passionate about creating apps that solve real problems. I'm all about diving into challenges, experimenting with new tech, and finding the best solutions to make things work.
 
 ---
 
@@ -68,7 +68,7 @@ Callista is a creative designer who brings fresh ideas and a strong aesthetic se
 
 #### Jumi Pham - Graphic Designer
 
-Hi, I’m Jumi! I’m from Vietnam and got into graphic design back in high school. I tried some freelance stuff while I was there. Now that I’m at BCIT, I’m learning that creativity and functionality go hand in hand. I aim to sharpen my skills and expand my vision in the graphic design world.
+Hi, I'm Jumi! I'm from Vietnam and got into graphic design back in high school. I tried some freelance stuff while I was there. Now that I'm at BCIT, I'm learning that creativity and functionality go hand in hand. I aim to sharpen my skills and expand my vision in the graphic design world.
 
 ---
 
@@ -76,7 +76,7 @@ Hi, I’m Jumi! I’m from Vietnam and got into graphic design back in high scho
 
 #### Monica Nguyen - Graphic Designer
 
-Hi, I’m Monica, one of the digital designers for Beep. I’m passionate about creating designs that strike the right balance between aesthetics and functionality. I’m always eager to learn and expand my skillset, constantly exploring new styles, shapes, and artistic approaches to bring fresh ideas to life.
+Hi, I'm Monica, one of the digital designers for Beep. I'm passionate about creating designs that strike the right balance between aesthetics and functionality. I'm always eager to learn and expand my skillset, constantly exploring new styles, shapes, and artistic approaches to bring fresh ideas to life.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Weekly Update"
 excerpt: "Week 9 Update: This week, worked on map integration,new landing page, and alert feature."
 coverImage: "/assets/blog/picture/week9.png"
-date: "2024-10-29T12:00:56.322Z"
+date: "2024-10-22T12:00:56.322Z"
 author:
   name: Christy
   picture: "/assets/blog/authors/christy-profile.png"

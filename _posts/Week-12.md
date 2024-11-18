@@ -18,7 +18,7 @@ Following feedback from our last sprint testing, we made a small adjustment by r
 
 ## Crime Heat Map Enhancements with Data Integration
 
-We have successfully integrated  crime data updates sourced directly from Vancouver Police Department APIs. With red dot markers for specific incidents and cluster visualizations for zoomed-out views, users can easily interpret risk levels. This week, we also refined the heat map toggling system, making it more responsive and user-friendly.
+We have successfully integrated crime data updates sourced directly from Vancouver Police Department APIs. With red dot markers for specific incidents and cluster visualizations for zoomed-out views, users can easily interpret risk levels. This week, we also refined the heat map toggling system, making it more responsive and user-friendly.
 
 ## Comprehensive Crime Data Integration & Heat Map Visualization
 

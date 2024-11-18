@@ -2,7 +2,7 @@
 title: "Weekly Update"
 excerpt: "Week 11 Update: This week, our team achieved major progress with the finalization of high-fidelity screens, advanced SOS functionality, and real-time crime data integration. Beep is shaping up to offer a seamless and visually adaptable user experience."
 coverImage: "/assets/blog/picture/week11.png"
-date: "2024-11-12T12:00:56.322Z"
+date: "2024-11-05T12:00:56.322Z"
 author:
   name: Monica
   picture: "/assets/blog/authors/mon-profile.png"
