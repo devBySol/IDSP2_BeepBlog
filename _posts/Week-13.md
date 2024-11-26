@@ -1,6 +1,6 @@
 ---
 title: "Weekly Update"
-excerpt: "Week 13 Update: This week, we improved map navigation, launched the "Snapshot" feature, developed onboarding screens, finalized the Beep landing page, and prepared business cards and brochures for print."
+excerpt: "Week 13 Update: This week, we improved map navigation, launched the 'Snapshot' feature, developed onboarding screens, finalized the Beep landing page, and prepared business cards and brochures for print."
 coverImage: "/assets/blog/picture/week13.png"
 date: "2024-11-26T14:25:56.322Z"
 author:
