@@ -21,3 +21,11 @@ We have completed the "Snapshot" feature, which allows users to capture and save
 ## Onboarding Screens
 
 We have also developed onboarding screens to enhance the user experience. These screens provide a brief overview of the app, detailing each feature and explaining its purpose, ensuring new users quickly understand the app's functionality upon creating an account or loading it for the first time.
+
+## Landing Page Built
+
+The Beep landing page was successfully finalized this week: Beep Landing Page. This page serves as a comprehensive introduction to our app, offering detailed information about its features and functionality. It also highlights our core values and mission, showcasing the purpose behind our work. Additionally, the page includes a dedicated section introducing our team, giving visitors a glimpse of the people driving the project forward.
+
+## Business Cards and Brochure:
+
+The Brochure and business cards have been finalized and sent for print this week.
