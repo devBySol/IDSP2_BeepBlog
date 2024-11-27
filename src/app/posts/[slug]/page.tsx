@@ -45,7 +45,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title} | Stay Safe, Stay Connected with ${CMS_NAME}`;
+  const title = `${post.title} | every step with peace of mind ${CMS_NAME}`;
 
   return {
     title,
