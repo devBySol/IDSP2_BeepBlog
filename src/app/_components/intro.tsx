@@ -29,7 +29,7 @@ export function Intro() {
         <img id="light" src={mode === "dark" ? "/favicon/mainLogoDark.svg" : "/favicon/mainLogo.svg"} alt="Beep Logo" className="w-12 h-12 mr-4" />
         <h1 className="text-5xl md:text-7xl font-bold tracking-tighter leading-tight">Beep</h1>
       </div>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">Stay Safe, Stay Connected with Beep</h4>
+      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">Every step with peace of mind</h4>
     </section>
   );
 }

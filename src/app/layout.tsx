@@ -10,7 +10,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Stay Safe, Stay Connected with ${CMS_NAME}`,
+  title: `Every step with peace of mind ${CMS_NAME}`,
   description: `women's safety companion, providing emergency features and real-time alerts for a secure journey home with ${CMS_NAME}.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
