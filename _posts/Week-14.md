@@ -15,11 +15,14 @@ _This week, we’re excited to announce that our Beep demo is ready to debut._
 ## Landing Page
 
 We’re thrilled to share that our Beep Landing Page is ready to support our upcoming showcase! The page provides visitors with a glimpse into:
+
 	•	The Purpose of Our App: Highlighting the mission behind Beep.
 	•	Our Core Values: Showcasing what makes Beep unique.
 	•	Meet the Team and Our Journey: An introduction to the creators and the story of Beep’s development.
 
+
 Additionally, we’ve included an Investor Page aimed at attracting and informing potential stakeholders. This section outlines:
+
 	•	Our financial strategy, growth plans, and vision for the future.
 	•	Key insights to build trust and foster investment opportunities as we scale.
 
