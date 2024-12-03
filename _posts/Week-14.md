@@ -1,7 +1,7 @@
 ---
 title: "Weekly Update"
 excerpt: "Week 14 Update: Beep Prepares for Showcase Debut"
-coverImage: "/assets/blog/picture/week12.png"
+coverImage: "/assets/blog/picture/week14.png"
 date: "2024-12-02T12:00:56.322Z"
 author:
   name: Jumi
